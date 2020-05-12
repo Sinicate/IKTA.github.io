@@ -337,6 +337,11 @@ img {
     margin-top: 0;
     color:var(--light);
 }
+iframe {
+    margin: 0 auto;
+
+}
+
 
 /* Boxes */
 .boxes {
